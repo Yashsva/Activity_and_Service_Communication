@@ -1,0 +1,2 @@
+rootProject.name='Communication Between Activity and Service'
+include ':app'
